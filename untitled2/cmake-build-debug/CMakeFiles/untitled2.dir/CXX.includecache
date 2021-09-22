@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/solus-workstation/CLionProjects/untitled2/main.cpp
+iostream
+-
+fstream
+-
+stack
+-
+vector
+-
+sstream
+-
+
